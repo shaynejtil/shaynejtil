@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shaynejtil
-- 👀 I’m interested in lms and photography
-- 🌱 I’m currently learning lms development
-- 💞️ I’m looking to collaborate on lms dev lol
+- 👀 I’m interested in crms and photography
 - 📫 How to reach me @shaynejtil basically everywhere
 
 <!---
