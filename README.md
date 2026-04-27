@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shaynejtil
+- 👋 Hi, I’m me
 - 👀 I’m interested in crms and photography
-- 📫 How to reach me @shaynejtil basically everywhere
+- 📫 How to reach me...you don't
 
 <!---
 shaynejtil/shaynejtil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
